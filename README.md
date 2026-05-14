@@ -289,43 +289,7 @@ Security Engineering      ███████████████░░░
 ```
 
 ---
-
-## GitHub Metrics Setup
-
-The live `metrics.lecoq.io` image can fail or show broken alt text on GitHub, so I removed it from the visible README. For the best lowlighter/metrics setup, add this workflow in your profile repository as `.github/workflows/metrics.yml`, then embed the generated `github-metrics.svg`.
-
-```yaml
-name: Metrics
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Kavish0001
-          template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          filename: github-metrics.svg
-```
-
-After the workflow creates the SVG, add this to the README:
-
-```md
-<img src="./github-metrics.svg" alt="Kavish Vyas GitHub metrics" width="100%" />
-```
-
----
+ 
 
 ## Experience
 
