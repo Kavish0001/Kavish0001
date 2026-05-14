@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1F6FEB,45:22C55E,100:F97316&text=Kavish%20Vyas&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&desc=Full%20Stack%20Developer%20%7C%20Security-Aware%20Engineer%20%7C%20MERN%20%2B%20Python&descAlign=50&descAlignY=62&animation=fadeIn" alt="Kavish Vyas profile header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:0D1117,35:1F6FEB,70:22C55E,100:F97316&text=Kavish%20Vyas&fontAlign=50&fontAlignY=42&fontColor=ffffff&fontSize=64&desc=Full%20Stack%20Developer%20%7C%20Security-Aware%20Engineer%20%7C%20MERN%20%2B%20Python&descAlign=50&descAlignY=66&descSize=18&animation=fadeIn" alt="Kavish Vyas profile header" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Building+production-grade+full-stack+platforms;Designing+secure+REST+APIs+and+RBAC+systems;Exploring+cybersecurity%2C+automation%2C+and+real-time+apps)](https://git.io/typing-svg)
 
@@ -14,6 +14,11 @@
 <img src="https://komarev.com/ghpvc/?username=Kavish0001&label=Profile%20Views&color=22C55E&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Kavish0001?label=Followers&style=for-the-badge&color=1F6FEB&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/Kavish0001?label=Total%20Stars&style=for-the-badge&color=F97316&logo=github" alt="GitHub stars" />
+
+<br />
+<br />
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="520" alt="Animated hello banner" />
 
 </div>
 
@@ -38,7 +43,13 @@ github: https://github.com/Kavish0001
 linkedin: https://linkedin.com/in/kavish-kashyapbhai-vyas
 ```
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="330" alt="Developer coding animation" />
+
 I am a Computer Science undergraduate and full stack developer who builds production-grade web platforms, REST APIs, real-time systems, and security-oriented tools. My strongest work so far is SHAKTI, an investigation-support and telecom-analysis platform deployed for 50-100 officers at the Cyber Centre of Excellence, Government of Gujarat.
+
+Outside the serious engineering mode, I like the flow state of building: trying ideas, breaking things locally, fixing them with better architecture, and shipping something useful with a little spark in it.
+
+<br clear="right" />
 
 ---
 
@@ -61,6 +72,13 @@ I am a Computer Science undergraduate and full stack developer who builds produc
 > Keep security close to the architecture, not as a patch after release.
 
 > Build APIs that are predictable, testable, and easy for future engineers to understand.
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="360" alt="Productive working animation" />
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="360" alt="Floating tech stack animation" />
+
+</div>
 
 ---
 
@@ -362,6 +380,11 @@ I am open to full stack engineering, backend development, MERN projects, cyberse
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kavish-kashyapbhai-vyas)
 [![Send Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavishvyas17@gmail.com)
+
+<br />
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="460" alt="Let's do it animation" />
 
 <br />
 <br />
