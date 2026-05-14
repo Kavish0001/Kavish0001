@@ -1,50 +1,68 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1F6FEB,50:22C55E,100:F97316&text=Kavish%20Vyas&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&desc=Full%20Stack%20Developer%20%7C%20Security-Aware%20Engineer%20%7C%20MERN%20%2B%20Python&descAlign=50&descAlignY=62&animation=fadeIn" alt="Kavish Vyas profile header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1F6FEB,45:22C55E,100:F97316&text=Kavish%20Vyas&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&desc=Full%20Stack%20Developer%20%7C%20Security-Aware%20Engineer%20%7C%20MERN%20%2B%20Python&descAlign=50&descAlignY=62&animation=fadeIn" alt="Kavish Vyas profile header" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=I+build+production-grade+full-stack+apps;I+ship+secure+REST+APIs+and+real-time+systems;I+like+clean+architecture%2C+automation%2C+and+cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Building+production-grade+full-stack+platforms;Designing+secure+REST+APIs+and+RBAC+systems;Exploring+cybersecurity%2C+automation%2C+and+real-time+apps)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kavish0001-181717?style=for-the-badge&logo=github)](https://github.com/Kavish0001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavish%20Vyas-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kavish-kashyapbhai-vyas)
 [![Email](https://img.shields.io/badge/Email-kavishvyas17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavishvyas17@gmail.com)
 [![Location](https://img.shields.io/badge/Ahmedabad-Gujarat-FFB000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Kavish0001&label=Profile%20Views&color=22C55E&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Kavish0001?label=Followers&style=for-the-badge&color=1F6FEB&logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/Kavish0001?label=Total%20Stars&style=for-the-badge&color=F97316&logo=github" alt="GitHub stars" />
+
 </div>
 
 ---
 
-## Snapshot
+## About Me
 
-```txt
-Role       Full Stack Developer + Security-Aware Engineer
-Stack      React 19, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Python
-Focus      MERN apps, REST APIs, RBAC, real-time systems, secure engineering
-Current    B.Tech Computer Science, Indrashil University, CGPA 8.5/10
-Highlight  SHAKTI platform deployed for 50-100 law-enforcement officers
+```yaml
+name: Kavish Kashyapbhai Vyas
+location: Ahmedabad, Gujarat, India
+role: Full Stack Developer
+education: B.Tech Computer Science, Indrashil University
+cgpa: 8.5 / 10.0
+focus:
+  - MERN applications
+  - secure REST APIs
+  - role-based access control
+  - real-time systems
+  - cybersecurity platforms
+contact: kavishvyas17@gmail.com
+github: https://github.com/Kavish0001
+linkedin: https://linkedin.com/in/kavish-kashyapbhai-vyas
 ```
 
-<table>
-  <tr>
-    <td width="55%">
-      <h3>What I do</h3>
-      <p>
-        I am a Computer Science undergraduate and full stack developer who builds production-grade web platforms, REST APIs,
-        real-time systems, and security-oriented tools. I enjoy turning complex operational workflows into clean software that
-        is fast to use, reliable to deploy, and easier to maintain.
-      </p>
-      <ul>
-        <li>Built <b>SHAKTI</b>, an investigation-support and telecom-analysis platform used at the Cyber Centre of Excellence, Government of Gujarat.</li>
-        <li>Engineered <b>200+ REST API endpoints</b> across case workflows, evidence handling, audit trails, health checks, and admin/officer modules.</li>
-        <li>Selected for <b>Positive Hack Camp 2026</b> in Moscow among 70 international cybersecurity participants.</li>
-      </ul>
-    </td>
-    <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kavish0001&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Kavish Vyas GitHub stats" width="100%" />
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kavish0001&theme=github-dark-blue&hide_border=true" alt="Kavish Vyas GitHub streak" width="100%" />
-    </td>
-  </tr>
-</table>
+I am a Computer Science undergraduate and full stack developer who builds production-grade web platforms, REST APIs, real-time systems, and security-oriented tools. My strongest work so far is SHAKTI, an investigation-support and telecom-analysis platform deployed for 50-100 officers at the Cyber Centre of Excellence, Government of Gujarat.
+
+---
+
+## Current Focus
+
+| Area | What I am doing |
+|:---|:---|
+| Building | SHAKTI-style secure platforms with React, TypeScript, Node.js, Express, PostgreSQL, and Docker |
+| Exploring | Cybersecurity workflows, automation, evidence handling, audit trails, and AI-assisted investigation tools |
+| Learning | Deeper backend architecture, deployment pipelines, testing, and scalable API design |
+| Open to | Full stack, backend, MERN, cybersecurity-oriented engineering, and real-time collaboration projects |
+| Ask me about | React, Node.js, Express, PostgreSQL, MongoDB, JWT, RBAC, WebRTC, Socket.io, Docker |
+
+---
+
+## How I Build
+
+> Ship features that people can actually use.
+
+> Keep security close to the architecture, not as a patch after release.
+
+> Build APIs that are predictable, testable, and easy for future engineers to understand.
+
+---
 
 ## Tech Toolbox
 
@@ -60,10 +78,12 @@ Highlight  SHAKTI platform deployed for 50-100 law-enforcement officers
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
 ![Playwright](https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
 
 </div>
 
@@ -92,89 +112,204 @@ mindmap
     Real Time
       WebRTC
       Socket.io
+    DevOps
+      Docker
+      GitHub
+      Playwright
 ```
 
-## Featured Work
+---
+
+## Featured Projects
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>SHAKTI</h3>
-      <p><b>Investigation-Support and Telecom Analysis Platform</b></p>
-      <p>
-        Production-grade Dockerized monorepo deployed for cybercrime and law-enforcement workflows at a state government cyber cell.
-      </p>
-      <p>
-        <code>React 19</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Docker</code> <code>FastAPI</code> <code>JWT</code> <code>Playwright</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Meet Aura</h3>
-      <p><b>Real-Time Video Conferencing Platform</b></p>
-      <p>
-        Browser-based video conferencing app with WebRTC peer media communication, Socket.io signaling, room management, and audio/video stream handling.
-      </p>
-      <p>
-        <code>React</code> <code>Node.js</code> <code>WebRTC</code> <code>Socket.io</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>PaperVault</h3>
-      <p><b>Academic Paper Repository Platform</b></p>
-      <p>
-        Full-stack platform for uploading, categorizing, and retrieving past exam papers with structured backend routes and metadata workflows.
-      </p>
-      <p>
-        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Security + Automation</h3>
-      <p><b>Engineering habits from real deployments</b></p>
-      <p>
-        RBAC-first API design, protected routes, audit reporting, health checks, backup/restore scripts, and Playwright E2E coverage.
-      </p>
-      <p>
-        <code>RBAC</code> <code>Docker</code> <code>Testing</code> <code>Monitoring</code>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### SHAKTI
+
+**Investigation-support and telecom-analysis platform**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- Deployed for 50-100 officers at a state cyber cell
+- 200+ REST API endpoints for investigation workflows
+- Evidence upload, file ingestion, case management, audit trails
+- JWT authentication, officer/admin RBAC, and protected routes
+- Dockerized monorepo with backup/restore and Playwright E2E suites
+
+</td>
+<td width="50%" valign="top">
+
+### Meet Aura
+
+**Real-time video conferencing platform**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc)
+![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio)
+
+- Browser-based video conferencing app
+- Peer-to-peer media communication with WebRTC
+- Socket.io signaling server and room management
+- Audio/video stream handling for multi-participant calls
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### PaperVault
+
+**Academic paper repository platform**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- Uploading, categorizing, and retrieving past exam papers
+- Backend routes for metadata management and structured retrieval
+- Full-stack workflow with React, Express, and MongoDB
+
+</td>
+<td width="50%" valign="top">
+
+### Security Automation
+
+**Reusable engineering practices from real deployments**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+![RBAC](https://img.shields.io/badge/RBAC-1F6FEB?style=flat-square)
+![Testing](https://img.shields.io/badge/E2E%20Testing-22C55E?style=flat-square)
+![Monitoring](https://img.shields.io/badge/Health%20Checks-F97316?style=flat-square)
+
+- RBAC-first API design
+- Protected routes and audit reporting
+- Health checks, backups, and restore scripts
+- Test coverage for user-facing workflows
+
+</td>
+</tr>
 </table>
 
-## Career Timeline
+</div>
+
+---
+
+## SHAKTI Architecture
+
+```mermaid
+graph TB
+    Officer["Officer Module"] --> Frontend["React 19 + TypeScript Frontend"]
+    Admin["Admin Module"] --> Frontend
+    Frontend --> Auth["JWT Auth + RBAC"]
+    Auth --> API["Express.js API Layer"]
+    API --> Cases["Case Management"]
+    API --> Evidence["Evidence Upload + File Ingestion"]
+    API --> Audit["Audit Trails + Reports"]
+    API --> Health["Health Checks"]
+    API --> DB["PostgreSQL"]
+    API --> AI["FastAPI AI Scaffold"]
+    API --> Tests["Playwright E2E Suites"]
+    DB --> Backup["Backup + Restore Pipelines"]
+    Docker["Dockerized Monorepo"] --> Frontend
+    Docker --> API
+    Docker --> DB
+    Docker --> AI
+```
+
+---
+
+## Development Journey
 
 ```mermaid
 timeline
     title Kavish Vyas - Engineering Journey
     2022 : Started B.Tech Computer Science at Indrashil University
-    2023 : IIT Kharagpur AI4ICPS + TCS iON AI Certification
+         : Built foundation in programming, data structures, and web engineering
+    2023 : IIT Kharagpur AI4ICPS and TCS iON AI Certification
+         : Hands-on AI for real-world applications
     2024 : React Developer Intern at Tech Elecon Pvt. Ltd.
+         : Built responsive component-based production interfaces
     2025 : Full Stack and Backend Developer Intern at Cyber Centre of Excellence
-    2026 : Positive Hack Camp 2026 selection
+         : Built SHAKTI with React, TypeScript, Express, PostgreSQL, Docker
+    2026 : Positive Hack Camp 2026 Selection
+         : Selected among 70 international cybersecurity participants
 ```
 
-## GitHub Activity
+---
+
+## GitHub Profile
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavish0001&theme=github-compact&hide_border=true&area=true&custom_title=Kavish%20Vyas%20Contribution%20Graph" alt="Kavish Vyas contribution activity graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavish0001&theme=github_dark" alt="Kavish Vyas GitHub profile summary" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish0001&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Kavish Vyas top languages" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=Kavish0001&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Kavish Vyas GitHub trophies" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavish0001&theme=github-compact&hide_border=true&area=true&custom_title=Kavish%20Vyas%20Contribution%20Graph" alt="Kavish Vyas contribution graph" width="100%" />
 
-</div>
-
-## Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/Kavish0001?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&config.timezone=Asia%2FKolkata" alt="Kavish Vyas GitHub metrics" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kavish0001&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Kavish Vyas GitHub trophies" width="100%" />
 
 </div>
 
-> The metrics card uses [lowlighter/metrics](https://github.com/lowlighter/metrics), an embeddable GitHub profile metrics generator with many plugin options. For the most powerful setup, generate this SVG with a GitHub Action and commit the output into your profile repository.
+---
+
+## Development Breakdown
+
+```txt
+JavaScript / TypeScript   ████████████████████░░░░░   MERN apps, APIs, dashboards
+React + Vite              ██████████████████░░░░░░░   component-based interfaces
+Node.js + Express         ███████████████████░░░░░░   REST APIs, auth, RBAC
+PostgreSQL + MongoDB      ████████████████░░░░░░░░░   schemas, queries, document data
+Python + FastAPI          ████████████░░░░░░░░░░░░░   AI scaffolds and service APIs
+Docker + Testing          █████████████░░░░░░░░░░░░   deployment, E2E, repeatability
+Security Engineering      ███████████████░░░░░░░░░░   JWT, protected routes, audit trails
+```
+
+---
+
+## GitHub Metrics Setup
+
+The live `metrics.lecoq.io` image can fail or show broken alt text on GitHub, so I removed it from the visible README. For the best lowlighter/metrics setup, add this workflow in your profile repository as `.github/workflows/metrics.yml`, then embed the generated `github-metrics.svg`.
+
+```yaml
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Kavish0001
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          filename: github-metrics.svg
+```
+
+After the workflow creates the SVG, add this to the README:
+
+```md
+<img src="./github-metrics.svg" alt="Kavish Vyas GitHub metrics" width="100%" />
+```
+
+---
 
 ## Experience
 
@@ -205,6 +340,8 @@ timeline
 
 </details>
 
+---
+
 ## Achievements
 
 - **Positive Hack Camp 2026:** selected by Positive Technologies and the Russian Ministry of Digital Development, Moscow, among 70 international participants.
@@ -212,7 +349,9 @@ timeline
 - **IIT Kharagpur AI Certification:** Hands-on Approach to AI for Real-World Applications, AI4ICPS I Hub Foundation and TCS iON.
 - **Hackathon Finalist:** final-round participant in Odoo Hackathon and Indus Hackathon.
 
-## Let's Build
+---
+
+## Connect
 
 <div align="center">
 
@@ -224,6 +363,9 @@ I am open to full stack engineering, backend development, MERN projects, cyberse
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kavish-kashyapbhai-vyas)
 [![Send Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavishvyas17@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1F6FEB,50:22C55E,100:F97316" alt="Footer wave" width="100%" />
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1F6FEB,45:22C55E,100:F97316" alt="Footer wave" width="100%" />
 
 </div>
